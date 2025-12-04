@@ -5,21 +5,19 @@
   <tr>
     <td valign="top" width="50%">
       <h2>🐾 Who I Am</h2>
-      <ul>
-        <li>Calm outside, debugging inside</li>
-        <li>Good at pretending everything is fine</li>
-        <li>Building things slowly but surely</li>
-        <li>Enjoys silence; survives on caffeine and unannounced breakdowns
-      </ul>
+      <p>
+        On the surface, I appear calm, but internally, I'm usually debugging code (or life). 
+        I enjoy building things slowly in silence, and believe it or not, <b>I'm actually really good at prompting 💅.</b>
+        Essentially, I'm surviving on caffeine, silent breakdowns, and the fine art of pretending everything is okay.
+      </p>
     </td>
     <td valign="top" width="50%">
-      <h2>💻 Els's Thoughts</h2>
-      <ul>
-        <li>Ctrl + Z is basically my belief system</li>
-        <li>Commit message: “update” (don’t judge me)</li>
-        <li>Productivity depends on temperature (usually low)</li>
-        <li>Life update: still tired, still coding</li>
-      </ul>
+      <h2>Els's Thoughts(?)</h2>
+      <p>
+        My entire belief system relies heavily on <code>Ctrl + Z</code>. I function best when the temperature is low, 
+        even if my commit messages are just a guilty "update." 
+        Current status: eternally tired but somehow still coding.
+      </p>
     </td>
   </tr>
 
@@ -37,13 +35,11 @@
         <li>Portfolio upgrades</li>
       </ul>
     </td>
-    <td valign="top" width="50%">
-      <h2>✨ What I'm Currently Doing</h2>
-      <ul>
-        <li>Looking for offering</li>
-        <li>Making progress only when I’m not supposed to</li>
-        <li>Pretending to understand my own architecture</li>
-      </ul>
+    <td valign="center" width="50%">
+      <br>
+      <p align="center">
+        <b>btw, I'm looking for **offering**🤪</b>
+      </p>
     </td>
   </tr>
 </table>
