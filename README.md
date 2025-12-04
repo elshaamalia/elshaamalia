@@ -9,8 +9,7 @@
         <li>Calm outside, debugging inside</li>
         <li>Good at pretending everything is fine</li>
         <li>Building things slowly but surely</li>
-        <li>Enjoys silence; survives on caffeine and unannounced breakdowns</li>
-        <li>Survives on caffeine and silent breakdowns</li>
+        <li>Enjoys silence; survives on caffeine and unannounced breakdowns
       </ul>
     </td>
     <td valign="top" width="50%">
@@ -23,9 +22,12 @@
       </ul>
     </td>
   </tr>
-</table>
 
-<table>
+  <tr>
+     <td></td>
+     <td></td>
+  </tr>
+
   <tr>
     <td valign="top" width="50%">
       <h2>🧁 What I'm Working On</h2>
