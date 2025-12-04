@@ -12,10 +12,10 @@ My entire belief system relies heavily on `Ctrl + Z`. I function best when the t
 - Portfolio upgrades
 
 
+
 <p align="">
   <b>Btw, I'm looking for **offering** 🤪</b>
 </p>
 
 ---
-
 <p align=""><i>アイドゥ ビリーブ ワタシタチハスモール シングス ノ タメ ニ ウマレタ ノ デハナイ</i></p>
