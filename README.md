@@ -4,7 +4,7 @@
 ---
 On the surface, I appear calm, but internally, I'm usually debugging code (or life). I enjoy building things slowly in silence, and believe it or not, I'm actually really good at prompting 💅. Essentially, I'm surviving on caffeine, silent breakdowns, and the fine art of pretending everything is okay.
 
-My entire belief system relies heavily on `Ctrl + Z`. I function best when the temperature is low, even if my commit messages are just a guilty "update." Current status: I’m still trying everything, even though it’s exhausting.
+My entire belief system relies heavily on `Ctrl + Z`. I function best when the temperature is low, even if my commit messages are just a guilty "update". Current status: I’m still trying everything, even though it’s exhausting.
   
 <br>
 
