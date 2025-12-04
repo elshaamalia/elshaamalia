@@ -1,41 +1,46 @@
-<h1 align="">エルシャ — Elsha Amalia</h1>
-<p align=""><i>Soft chaos inside, emotionally buffering, still coding somehow.</i></p>
+<h1 align="center">エルシャ — Elsha Amalia</h1>
+<p align="center"><i>Soft chaos inside, emotionally buffering, still coding somehow.</i></p>
 
 <table>
-<tr>
-<td valign="top" width="50%">
-
-## 🐾 Who I Am
-- Calm outside, debugging inside  
-- Good at pretending everything is fine  
-- Building things slowly but surely  
-- Enjoys silence; survives on caffeine and unannounced breakdowns  
-
-## 🧁 What I'm Working On
-- Small fun apps  
-- AI experiments  
-- Portfolio upgrades  
-
-</td>
-<td valign="top" width="50%">
-
-## 💻 Els's Thoughts
-- Ctrl + Z is basically my belief system  
-- Commit message: “update” (don’t judge me)  
-- Productivity depends on temperature (usually low)  
-- Life update: still tired, still coding  
-
-## ✨ What I'm Currently Doing
-- Looking for offering  
-- Making progress only when I’m not supposed to  
-- Pretending to understand my own architecture  
-
-</td>
-</tr>
+  <tr>
+    <td valign="top" width="50%">
+      <h2>🐾 Who I Am</h2>
+      <ul>
+        <li>Calm outside, debugging inside</li>
+        <li>Good at pretending everything is fine</li>
+        <li>Building things slowly but surely</li>
+        <li>Loves silence, clean UI, and code that doesn't fight back</li>
+        <li>Survives on caffeine and silent breakdowns</li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <h2>💻 Els's Thoughts</h2>
+      <ul>
+        <li>Ctrl + Z is basically my belief system</li>
+        <li>Commit message: “update” (don’t judge me)</li>
+        <li>Productivity depends on temperature (usually low)</li>
+        <li>Life update: still tired, still coding</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <h2>🧁 What I'm Working On</h2>
+      <ul>
+        <li>Small fun apps</li>
+        <li>AI experiments</li>
+        <li>Portfolio upgrades</li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <h2>✨ What I'm Currently Doing</h2>
+      <ul>
+        <li>Looking for offering</li>
+        <li>Making progress only when I’m not supposed to</li>
+        <li>Pretending to understand my own architecture</li>
+      </ul>
+    </td>
+  </tr>
 </table>
-
-<p align="center">
-  <img src="https://media.tenor.com/0V0l3HnZ3_8AAAAC/cat-glasses.gif" width="130" style="border-radius:10px;" />
-</p>
 
 <p align="center"><i>静かに、しかし確実に。 (Quietly, but steadily.)</i></p>
