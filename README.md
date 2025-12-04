@@ -1,4 +1,4 @@
-<h1 align="">エルシャ — Elsha Amalia</h1>
+<h1 align="">エルシャ — Elsha</h1>
 <p align=""><i>Soft chaos inside, emotionally buffering, still coding somehow.</i></p>
 
 <table>
