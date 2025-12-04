@@ -5,9 +5,7 @@
 <p align="">
   <img src="https://media.tenor.com/8-PdN9wZkN4AAAAC/cat-cute.gif" width="250"/>
 </p>
-
-<p align="center">
-Soft vibes • Cute energy • Passionate in Web Dev, AI, and Product Building  
+<p align="">Soft vibes • Cute energy • Passionate in Web Dev, AI, and Product Building  
 Coding while purring 🐱💻💖
 </p>
 
