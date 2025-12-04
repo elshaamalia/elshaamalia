@@ -9,8 +9,7 @@
 - Calm outside, debugging inside  
 - Good at pretending everything is fine  
 - Building things slowly but surely  
-- Loves silence, clean UI, and code that doesn't fight back  
-- Survives on caffeine and silent breakdowns  
+- Enjoys silence; survives on caffeine and unannounced breakdowns  
 
 ## 🧁 What I'm Working On
 - Small fun apps  
