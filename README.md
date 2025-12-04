@@ -1,5 +1,5 @@
-<h1 align="center">エルシャ — Elsha Amalia</h1>
-<p align="center"><i>Soft chaos inside, emotionally buffering, still coding somehow.</i></p>
+<h1 align="">エルシャ — Elsha Amalia</h1>
+<p align=""><i>Soft chaos inside, emotionally buffering, still coding somehow.</i></p>
 
 <table>
   <tr>
@@ -43,4 +43,4 @@
   </tr>
 </table>
 
-<p align="center"><i>静かに、しかし確実に。 (Quietly, but steadily.)</i></p>
+<p align=""><i>静かに、しかし確実に。 (Quietly, but steadily.)</i></p>
